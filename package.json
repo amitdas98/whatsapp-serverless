@@ -18,6 +18,7 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongoose": "^8.9.3",
-    "wasenderapi": "^0.1.5"
+    "wasenderapi": "^0.1.5",
+    "serverless-http": "^3.2.0"
   }
 }
